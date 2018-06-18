@@ -1,9 +1,8 @@
-###Instagram Scraper
+###instagram-scraper
 
-This is a quick hack to get instagram user data without having to go through signing up to the api
+This is an instagram scraper that does not require you to enter an api credentials. WARNING MAY BREAK AT ANY TIME
 
-
-
+It's quick hack to get instagram user data without having to go through signing up to the api
 
 #Get Started
 to start server with npm, `npm start`
