@@ -14,7 +14,7 @@ application.use(logger());
 
 application.use(bodyparser());
 
-app.use(cors({
+application.use(cors({
     origin: "*"
 }));
 
