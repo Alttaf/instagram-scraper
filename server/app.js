@@ -16,7 +16,7 @@ application.use(bodyparser());
 
 app.use(cors({
     origin: "*"
-});
+}));
 
 application
     .use(healthCheck.routes())
