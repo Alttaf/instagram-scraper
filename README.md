@@ -1,3 +1,6 @@
+CURRENTLY BROKEN
+Instagram have changed their public api to ask for a captcha this may be the final curtain....
+
 #instagram-scraper
 
 This is an instagram scraper that does not require you to enter an api credentials. WARNING MAY BREAK AT ANY TIME
